@@ -1,0 +1,8 @@
+export const GOOGLE_MAPS_CONFIG = {
+  API_KEY: 'AIzaSyAOVYRIgupAurZup5y1PRh8Ismb1A3lLao&libraries=places&callback=initMap', // Replace with your actual Google Maps API key
+  DEFAULT_CENTER: {
+    lat: 35.7219,
+    lng: 51.3347
+  },
+  DEFAULT_ZOOM: 12
+} 
